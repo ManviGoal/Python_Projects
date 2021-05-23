@@ -10,3 +10,5 @@ Website_Phishing_Detection with different ensemble techniques
 
 House_Price_Prediction using Linear Regression
 (Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+EDA_Iris_Dataset using different graphs from seaborn liabrary
